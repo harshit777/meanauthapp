@@ -1,0 +1,3 @@
+Server started on port3000
+(node:10156) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Parameter "url" must be a string, not undefined
+(node:10156) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
